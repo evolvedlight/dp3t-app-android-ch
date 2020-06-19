@@ -823,7 +823,7 @@ Si la actualización no estuviera disponible en su dispositivo actualmente, int�
     <string name="synchronizations_view_title">"Resumen"</string>
     <string name="synchronizations_view_info_title">"Sincronizaciones"</string>
     <string name="synchronizations_view_info_question">"¿Qué son las sincronizaciones?"</string>
-    <string name="synchronizations_view_info_answer">"La aplicación comprueba regularmente los identificadores (ID) aleatorios  publicados por  usuarios que han dado positivo."</string>
+    <string name="synchronizations_view_info_answer">"La aplicación comprueba regularmente los identificadores (ID) aleatorios publicados por usuarios que han dado positivo."</string>
     <string name="synchronizations_view_period_title">"En los últimos 14 días"</string>
     <string name="synchronizations_view_sync_via_open">"  • Open"</string>
     <string name="synchronizations_view_sync_via_background">"  • Sync"</string>
